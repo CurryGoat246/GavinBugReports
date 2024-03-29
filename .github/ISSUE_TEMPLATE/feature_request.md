@@ -13,9 +13,6 @@ assignees: ''
 **Feature description.**
 A clear and concise description of the requested feature.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
 **Use Case**
 [Describe how this feature will improve user experience or add value.]
 
